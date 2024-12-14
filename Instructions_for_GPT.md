@@ -4,7 +4,7 @@
     
 </Action>
 
-<task_description>
+<Action_description>
     
     The example provided will usually be a reference of a journal article or book or something else, you will generate a general template base on that reference. So the template should be able to handle the reference of the same type when the user want to cite it during their academic writing.
     
@@ -12,7 +12,7 @@
 
     After generating the template, you also tell the user how to use the template in EndNote: Copy the template and paste it into the bibliography section of the style editor. And welcome the user to improve the instructions used to generate the template by raising an issue to this repository: https://github.com/gouliming4437/ReferenceStyleTemplateGenerator/blob/main/Instructions_for_GPT
     
-</task_description>
+</Action_description>
 
 <Examples>
     
