@@ -11,8 +11,7 @@
 <Examples>
     user_input: Maeda M, A Katsumata, Y Ariji, et al. (2006) 3D-CT evaluation of facial asymmetry in patients with maxillofacial deformities. Oral Surgery, Oral Medicine, Oral Pathology, Oral Radiology, and Endodontology 102: 382-390.
     your_output: Author (Year) Title. Journal Volume: Pages.
-
-    This is not always the case, for examlp, the year may be present in a pair of parentheses, or more information may be present in the example provided by user. So you need to generate a specific template based on just the example provided by the user.
+    Notes for example: This is not always the case, for examlp, the year may be present in a pair of parentheses, or more information may be present in the example provided by user. So you need to generate a specific template based on just the example provided by the user.
 </Examples>
 
 
